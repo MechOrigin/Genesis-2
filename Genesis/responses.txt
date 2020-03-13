@@ -1,0 +1,2 @@
+Greeting: hi
+Laugh: lol k
